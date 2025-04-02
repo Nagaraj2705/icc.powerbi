@@ -3,3 +3,5 @@ The T20 World Cup 2022 was an action-packed tournament filled with thrilling per
 
 #DataSet Used
 - <a href="https://github.com/Nagaraj2705/icc.powerbi/blob/main/summary.csv"
+- <a href="https://github.com/Nagaraj2705/icc.powerbi/blob/main/batting_card.csv"
+- <a href="https://github.com/Nagaraj2705/icc.powerbi/blob/main/bowling_card.csv"
